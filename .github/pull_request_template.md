@@ -1,9 +1,7 @@
 ## Description
-<!-- Add a description (the WHAT) of your changes in this section below this line-->
+<!-- Add a description and any context for your changes in this section below this line-->
 
 
-## [Optional] Context
-<!-- Add any additional context (the WHY) for your changes in this section below this line -->
 
 
 ## Checklist
